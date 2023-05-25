@@ -15,7 +15,7 @@ B. Installing the moviepy module to create gif:-
 
     pip install moviepy
     
-**Note: ** "shape_predictor_68_face_landmarks.dat" - This file is needed to detect 68 tie points in image using dlib library, which is included in the folder. The same file can be found here:- http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+**Note:** "shape_predictor_68_face_landmarks.dat" - This file is needed to detect 68 tie points in image using dlib library, which is included in the folder. The same file can be found here:- http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 This file is not contained in the repo. After downloading the repo, download the above file, extract it and add it in the same folder.
 
 ## Input & Output
