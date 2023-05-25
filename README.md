@@ -1,7 +1,7 @@
 # Image-Morphing
 This was a part of the assignments of the course Digital Image Processing (CS517) taken in IIT Ropar (Jan 2023 - May 2023)
 
-**Reference: **https://github.com/spmallick/learnopencv/tree/master/FaceMorph
+**Reference:** https://github.com/spmallick/learnopencv/tree/master/FaceMorph
 
 ## Requirements
 
